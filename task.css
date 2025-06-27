@@ -1,0 +1,27 @@
+.container{
+    height: 100vh;
+    width: 50vw;
+}
+.c2 img{
+    border-radius: 50%;
+    height: 100px;
+    width: 200px;
+    position: relative;
+    bottom: 450px;
+    left: 150px;
+    border: 3px solid black;
+ 
+}
+.c3{
+    background-color: lightgreen;
+    height: 60vh;
+    width: 40vw;
+    border-bottom-right-radius: 40px;
+    border: 2px solid black;
+}
+.c1{
+    background-color: lightblue;
+    height: 20vh;
+    width: 40vw;
+    border: 2px solid black;
+   }
